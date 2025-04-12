@@ -2,8 +2,10 @@
 
 A platform to help Muslims set and maintain their intentions (niyyah) for daily actions, turning everyday habits into acts of worship.
 ## Getting Started
+![Screenshot](Screenshoot.png)
 
 ![Screenshot](Screenshot.png)
+
 
 ## Features
 
